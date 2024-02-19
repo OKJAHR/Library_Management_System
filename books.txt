@@ -1,0 +1,11 @@
+Şeker Portakalı,Jose Mauro De Vasconcelos,06.09.2019,182
+Küçük Prens,Antoine De Saint Exupery,16.03.2022,112
+Hayvan Çiftliği,George Orwell ,04.10.2019,152
+1984,George Orwell ,25.04.2019,352
+Bilinmeyen Bir Kadının Mektubu,Stefan Zweig,26.02.2019,68
+Simyacı,Paulo Coelho,28.09.2021,184
+Olağanüstü Bir Gece,Stefan Zweig,15.04.2019,80
+Kürk Mantolu Madonna,Sabahattin Ali,15.08.2023,160
+Satranç,Stefan Zweig,13.02.2019,77
+Fareler ve İnsanlar,John Steinbeck,26.01.2023,111
+Bülbülü Öldürmek,Harper Lee,24.04.2019,355
